@@ -5,7 +5,9 @@
 
 ## Installation
 
-`npm install ramjet`, or download [ramjet.js](http://www.rich-harris.co.uk/ramjet/ramjet.js).
+`npm install ramjet`, or download [ramjet.js](http://www.rich-harris.co.uk/ramjet/ramjet.js) or CDN:
+
+`<script src='https://oss.maxcdn.com/ramjet/0.4.4/ramjet.min.js'></script>`
 
 
 ## Quick start
